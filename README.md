@@ -2,7 +2,7 @@
 
 # Formulario React de practica
 
-# Proyecto de practica
+# Proyecto de práctica
 
 [Preview app](https://jmes-mi-primer-app-form.netlify.app/)
 
